@@ -1,0 +1,5 @@
+{
+  "name": "Compliant Bistable Mechanism Simulator",
+  "description": "An engineering tool for kinematic and static analysis of compliant 4-bar linkages using the Pseudo-Rigid-Body (PRB) model, allowing users to analyze potential energy and torque curves for bistable designs.",
+  "requestFramePermissions": []
+}
